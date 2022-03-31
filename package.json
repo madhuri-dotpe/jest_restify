@@ -1,0 +1,21 @@
+{
+  "name": "jest_restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.10",
+    "restify": "^8.6.1"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^2.2.1",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
